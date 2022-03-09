@@ -1,3 +1,9 @@
 name = 'Rahul Koley'
 age = 25
 print (name , age , end='')
+
+# Defining a new Variable
+
+edu = m.sc
+acc = SBI
+
